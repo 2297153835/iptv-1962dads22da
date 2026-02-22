@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-02-22 18:35:14,http://74.91.26.218:82/live/cctv1hd.m3u8
+2026-02-22 19:03:51,http://74.91.26.218:82/live/cctv1hd.m3u8
 
 📺央视频道,#genre#
 CCTV-1,http://74.91.26.218:82/live/cctv1hd.m3u8
@@ -221,7 +221,7 @@ CETV-4,http://mgsp-ws2.live.miguvideo.com:8088/migu/kailu/cetv4/51/20240709/inde
 CETV-4,http://mgsp-zy2.live.miguvideo.com:8088/migu/kailu/cetv4/51/20240709/index.m3u8?msisdn=e55e9ee71b42d2d7008a152c069625e3&mdspid=&spid=699004&netType=0&sid=5910022154&pid=2028597139&timestamp=20260215160215&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=923287339&ParentNodeID=-99&assertID=5910022154&client_ip=218.28.233.106&SecurityKey=20260215160215&promotionId=&mvid=5900006640&mcid=500020&playurlVersion=WX-A1-9.2.1-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=291b691ef984068aeb1fa6c61a9b46ea&sv=10004&ct=android
 CETV-4,http://mgsp-hs2.live.miguvideo.com:8088/migu/kailu/cetv4/51/20240709/index.m3u8?msisdn=e55e9ee71b42d2d7008a152c069625e3&mdspid=&spid=699004&netType=0&sid=5910022154&pid=2028597139&timestamp=20260216040228&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=923287339&ParentNodeID=-99&assertID=5910022154&client_ip=218.28.233.106&SecurityKey=20260216040228&promotionId=&mvid=5900006640&mcid=500020&playurlVersion=WX-A1-9.2.1-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=f56ceb6b0e085bbb5e657c634b108ca0&sv=10004&ct=android
 
-📺港·澳·台,#genre#
+💰央视付费频道,#genre#
 
 📡卫视频道,#genre#
 广东卫视,https://txmov2.a.kwimgs.com/upic/2023/01/26/09/BMjAyMzAxMjYwOTE3NDVfNzM5MzQzNzIyXzk0NjI1OTUwNTA3XzBfMw==_b_B81ddda927d33445d544befd008e60109.mp4
@@ -683,4 +683,74 @@ CETV-4,http://mgsp-hs2.live.miguvideo.com:8088/migu/kailu/cetv4/51/20240709/inde
 汕头经济,https://stream1.freetv.fun/shan-tou-jing-ji-4.ctv
 汕头经济,https://stream1.freetv.fun/shan-tou-jing-ji-2.ctv
 
-☘️少儿频道,#genre#
+☘️浙江频道,#genre#
+
+☘️北京频道,#genre#
+
+☘️上海频道,#genre#
+
+☘️重庆频道,#genre#
+
+☘️江苏频道,#genre#
+
+☘️辽宁频道,#genre#
+
+☘️湖南频道,#genre#
+
+☘️湖北频道,#genre#
+
+☘️广西频道,#genre#
+
+☘️天津频道,#genre#
+
+☘️四川频道,#genre#
+
+☘️陕西频道,#genre#
+
+☘️福建频道,#genre#
+
+☘️海南频道,#genre#
+
+☘️河南频道,#genre#
+
+☘️河北频道,#genre#
+
+☘️贵州频道,#genre#
+
+☘️甘肃频道,#genre#
+
+☘️新疆频道,#genre#
+
+☘️山东频道,#genre#
+
+☘️山西频道,#genre#
+
+☘️安徽频道,#genre#
+
+☘️宁夏频道,#genre#
+
+☘️吉林频道,#genre#
+
+☘️内蒙古频道,#genre#
+
+☘️云南频道,#genre#
+
+☘️青海频道,#genre#
+
+☘️黑龙江频道,#genre#
+
+🌊港·澳·台,#genre#
+
+🎬电影频道,#genre#
+
+🎥咪咕直播,#genre#
+
+🏀体育频道,#genre#
+
+🪁动画频道,#genre#
+
+🎮游戏频道,#genre#
+
+🎵音乐频道,#genre#
+
+🏛经典剧场,#genre#
